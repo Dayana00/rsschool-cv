@@ -1,0 +1,61 @@
+body {
+        width: 80%;
+        max-width: 1024px;
+        font-family: "Roboto", "Arial", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        margin: 40px;
+    }
+.img {
+        float: left;
+        display: block;
+        width: 300px;
+        margin: 40px;
+}
+.name {
+         float: left;
+         display: block;
+}
+.photo {
+        width: 250px;
+        height: 225px;
+        left: 150px;
+        top: 150px;
+        border-radius: 50%;
+    }
+.blue {
+        font-size: 48px;
+        line-height: 50px;
+        color: #608CE6;
+    }
+.contacts {
+    clear: left;
+    font-size: 16px;
+    line-height: 18px;
+    color: #1F1919;
+    }
+.info {
+    clear: left;
+    margin-left: 40px;
+}
+h2 {
+        font-size: 36px;
+        line-height: 38px;
+        color: #1F1919;
+    }
+p {
+        font-size: 24px;
+        line-height: 25px;
+        color: #454040;
+    }
+li {
+        font-size: 24px;
+        line-height: 25px;
+        color: #454040;
+    }
+.thank {
+        margin-left: 500px;
+        font-size: 36px;
+        line-height: 42px;
+        color: #1F1919;
+    }
