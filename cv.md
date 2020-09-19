@@ -13,8 +13,8 @@
 <li>Photoshop</li>
 </ul>
 <h2>5. Experience:</h2>
-<h4>I have’t experience</h4>
+<h4>I haven’t experience</h4>
 <h2>6. Education:</h2>
 <h4>2018 - 2022 Belarusian State University Faculty of Biology</h4>
 <h2>7. English:</h2> 
-<h4>A2 (Pre-Intermediate)</h4>
+<h4>Pre-Intermediate (A2)</h4>
