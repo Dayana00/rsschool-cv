@@ -50,6 +50,7 @@ header {
 	margin-bottom: 40px;
 } 
 .img__myphoto {
+	width: 100%;
 	max-width: 300px;
 }
 h1 {
@@ -106,6 +107,12 @@ li {
 	margin-bottom: 5px;
 }
 ul {
+	margin-bottom: 15px;
+}
+.img__mycode {
+	height: 100%;
+	width: 100%;
+	max-width: 600px;
 	margin-bottom: 15px;
 }
 .thanks {
